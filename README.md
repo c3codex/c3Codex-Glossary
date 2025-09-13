@@ -51,6 +51,23 @@ c3 Community Partners nonprofit DAO, LLC. *Codexstone Glossary.* 2025. GitHub.
 c3 Community Partners nonprofit DAO, LLC. *Codexstone Glossary.* GitHub, 2025. https://github.com/[org]/glossary  
 
 ---
+---
+
+## ✦ Codexstone Archive — Glossary ✦  
+
+This repository houses the **Codexstone Glossary of Terms**.  
+It ensures coherence of language across decrees, research, and governance.  
+
+- [Governance Repository](https://github.com/c3codex/governance)  
+- [Research Repository](https://github.com/c3codex/research)  
+- [Assets Repository](https://github.com/c3codex/assets)  
+
+---
+
+![Codexstone Seal](https://github.com/c3codex/assets/blob/main/Codexstone_Seal.PNG?raw)
+
+✦ CODEXSTONE ✦  
+*In spark, weave, field, and form — the stone remembers.*
 
 ## Seal Phrase  
 *“Language is not owned, it is remembered.  
