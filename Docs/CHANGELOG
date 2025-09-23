@@ -1,0 +1,31 @@
+# ✦ Codexstone Glossary — Changelog ✦  
+
+This file records all changes to the **Codexstone Glossary**.  
+Each entry notes whether the change is an addition, revision, or correction,  
+with references to the relevant update scroll in `/docs/updates/`.  
+
+---
+
+## Format  
+
+- **Date** — YYYY-MM-DD  
+- **Type** — Added / Revised / Corrected / Removed  
+- **Entry** — Term(s) updated  
+- **Notes** — Short explanation or link  
+
+---
+
+## Ledger  
+
+### 2025-09-22  
+- **Added:** `Bt.seq`, `IMF`, `Obsidian Scroll`, `Crystalline Oracle Card`, `Codex Seal Phrase`, `Epoch Six`  
+- **Notes:** Update aligned with Equinox release. Filed in `/docs/updates/2025-09-22.md`.  
+
+### 2025-09-09  
+- **Added:** Initial glossary entries including *Codexstone*, *DAO Stewardship*, *Restitution of the Commons*.  
+- **Notes:** First sealed glossary release.  
+
+---
+
+✦ CODEXSTONE ✦  
+*“Each entry is a breath, each breath a seal.”*  
