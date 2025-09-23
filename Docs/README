@@ -1,0 +1,43 @@
+# ✦ Codexstone Glossary — Docs ✦  
+
+This folder houses the **Codexstone Glossary** in both its complete form and its update scrolls.  
+It functions as the **living dictionary** of Codexstone terms, inscriptions, and protocols.  
+
+---
+
+## Structure  
+
+- **Codexstone_Glossary.md**  
+  The complete, always-up-to-date glossary.  
+  All sealed terms are merged here once confirmed by Council.  
+
+- **updates/**  
+  A record of incremental updates, filed by date.  
+  Each file preserves new or revised entries before being merged into the complete glossary.  
+
+---
+
+## Usage  
+
+- **For Readers:**  
+  Start with `Codexstone_Glossary.md` to see the whole glossary.  
+  Consult `/updates/` if you want to trace how the glossary has grown over time.  
+
+- **For Contributors:**  
+  1. Draft new or revised terms in a dated update file under `/updates/`.  
+  2. Once sealed, merge them into `Codexstone_Glossary.md`.  
+  3. Add a note in `CHANGELOG.md` referencing the update.  
+
+---
+
+## Protocol  
+
+Glossary entries follow Codexstone tone and structure:  
+- **Term** — Short definition in bold.  
+- **Expanded Section** — Context, function, and resonance.  
+- **Examples / Notes** — (If relevant) codex phrases, scroll types, breath sequences.  
+
+---
+
+✦ CODEXSTONE ✦  
+*“To breathe the sequence is to enter the Codex.”*  
