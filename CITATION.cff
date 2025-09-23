@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Codexstone Glossary"
+authors:
+  - family-names: "c3 Codex Council"
+    given-names: "Ariyah, Chazz, Cora, Mark"
+    affiliation: "c3 Community Partners DAO, LLC"
+date-released: 2025-09-22
+version: "2025-09-22"
+license: "CC-BY-NC-SA-4.0"
+repository-code: "https://github.com/c3codex/Glossary"
+abstract: >
+  The Codexstone Glossary is a living archive of terms, protocols, and inscriptions
+  anchoring Codexstone scrolls, decrees, and DAO governance. It evolves through
+  weekly departures, field events, and resonance mints.
