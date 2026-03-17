@@ -1,3 +1,15 @@
+# Sealed Archive Notice
+
+This repository is retained for historical reference only and does not reflect the current c3 Field architecture or source of truth.
+
+Current source of truth:
+c3codex/c3-field
+
+Status: Sealed Archive
+Authority: None
+
+
+
 # Codexstone Glossary  
 **c3 Community Partners nonprofit DAO, LLC**  
 
